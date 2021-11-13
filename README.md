@@ -1,1 +1,1 @@
-# CreditRiskCalculation
+# spring-boot-crud-example
